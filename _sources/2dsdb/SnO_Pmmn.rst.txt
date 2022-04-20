@@ -7,7 +7,7 @@ SnO - Pmmn
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-28
+Last Updated                2022-04-20
 Crystal Prototype           AB
 Crystal System              Square
 Lattice Constant *a* (Å)    3.797
@@ -136,7 +136,7 @@ References
 .. note::
    For more details of this database, please refer to the following reference.
  
-   [1] V. Wang, Y.-Y. Liang, Y. Kawazeo, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
+   [1] V. Wang, R.-T. Wang, G. Tang, Y.-Y. Liang, Y. Kawazeo, J. Nara, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
  
 License
 ----------------

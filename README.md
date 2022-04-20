@@ -1,2 +1,1 @@
-Please visit https://materialsimulation.com
-# materialsdb.github.io
+Please visit https://materialsdb.cn
