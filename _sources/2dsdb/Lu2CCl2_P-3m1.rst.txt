@@ -141,6 +141,7 @@ References
 .. note::
    For more details of this database, please refer to the following reference.
  
+   [1] V. Wang, G. Tang, Y.-C. Liu, R.-T. Wang, H. Mizuseki, Y. Kawazeo, J. Nara, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `Journal of Physical Chemistry Letters 13, 11581 (2022). <https://doi.org/10.1021/acs.jpclett.2c02972>`_
  
 License
 ----------------
