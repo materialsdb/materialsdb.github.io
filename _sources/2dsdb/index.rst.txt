@@ -332,7 +332,7 @@ List of Data
 Acknowledgments
 ----------------
  
-The calculations were performed on the MASAMUNE-IMR supercomputer at the `Institute for Materials Research of Tohoku University <https://www.sc.imr.tohoku.ac.jp/eng/index.html>`_, Japan.
+This project was supported by the National Natural Science Foundation of China (Grant No. 62174136). The calculations were performed on the MASAMUNE-IMR supercomputer at the `Institute for Materials Research of Tohoku University <https://www.sc.imr.tohoku.ac.jp/eng/index.html>`_, Japan.
  
 License
 ----------------
